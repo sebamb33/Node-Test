@@ -12,6 +12,15 @@
     "express": "^4.17.3"
   },
   "devDependencies": {
+    "morgan": "^1.10.0",
     "nodemon": "^2.0.15"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebamb33/Node-Test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sebamb33/Node-Test/issues"
+  },
+  "homepage": "https://github.com/sebamb33/Node-Test#readme"
 }
